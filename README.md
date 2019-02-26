@@ -1,7 +1,7 @@
 
 
 
-  ![](images/Solutions Hub.png)
+  ![](images/solutions hub.png)
 
 # Importing OSC-SCV Integration Flows to OIC Workshop
 
