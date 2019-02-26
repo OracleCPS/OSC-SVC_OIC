@@ -22,16 +22,14 @@ Oracle Demo Central has stored abundent ready-to-use assets on Oracle Intergrati
 
 - The first step when setting up for Oracle Integration Cloud Service-based integration is to import the Oracle Integration Cloud Service integration flows. To import the required Oracle Sales Cloud and Oracle Service Cloud integration flows you must download the Oracle Integration Cloud Service integration flow package to your local computer.
 
-  ![](images/100/LAB100.png)
   
 ### **Step 3**: Navigate to Lab 200: configure the connection to the Oracle Sales Cloud Instance
 - Before you activate the integration, the connections between Oracle Service Cloud and Oracle Sales Cloud need to be configured with your credentials.
   
-  ![](images/200/LAB200.png)
-  
+
 ### **Step 4**: Navigate to Lab 300: configure the connection to the Oracle Service Cloud Instance
 - This is the last step before you activate the integration flows. 
-  ![](images/300/LAB300.png)
+
 
 ### **Step 5**: Navigate to Lab 400: activate your integration!
 - Now, you will continue to activate the integrtaions by simply clicking some buttons. Follow the lab guide for instructions.
