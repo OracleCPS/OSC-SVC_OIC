@@ -1,13 +1,12 @@
 
 
 
-  ![](images/CloudSolutionHubs.png)
+  ![](images/Solutions Hub.png)
 
 # Importing OSC-SCV Integration Flows to OIC Workshop
 
 Oracle Demo Central has stored abundent ready-to-use assets on Oracle Intergration Cloud services, and you can easily reuse them to do demos. In this workshop, you will have guidelines on how to import the intergations from Oracle Sales Cloud (OSC) to Sevice Cloud (SVC) to your OIC environment. After this, you will also be able to explore and import other ready-to-use assets to fullfill your need.
 
-<a href="https://youtu.be/" target="_video">Workshop Overview(InProgress)?</a>
 
 ### **Step 1**: Acquire an Oracle Cloud Trial or Workshop Account
 
