@@ -3,7 +3,7 @@
 
   ![](images/CloudSolutionHubs.png)
 
-# Importing OSC-SCV Integration Flows to OIC Workshop
+# Getting Started with the OSC-SCV Integration Flows to OIC Workshop
 
 
 ### Introduction
